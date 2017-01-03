@@ -1,0 +1,25 @@
+{
+  "name": "vijay",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaybalans/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "“vijayabalan <“vijaynationallionz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaybalans/test/issues"
+  },
+  "homepage": "https://github.com/vijaybalans/test#readme"
+}
