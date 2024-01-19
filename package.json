@@ -1,25 +1,22 @@
 {
-  "name": "vijaygroup",
+  "name": "generate-mean-files",
   "version": "1.0.0",
-  "description": "test",
+  "description": "To generate files for mean stack",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vijaybalans/test.git"
+    "url": "git+https://github.com/vijaybalans/generate_mean_files.git"
   },
   "keywords": [
-    "test"
+    "component"
   ],
-  "author": "“vijayabalan <“vijaynationallionz@gmail.com>",
-  "license": "ISC",
+  "author": "Vijayabalan",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vijaybalans/test/issues"
+    "url": "https://github.com/vijaybalans/generate_mean_files/issues"
   },
-  "homepage": "https://github.com/vijaybalans/test#readme"
+  "homepage": "https://github.com/vijaybalans/generate_mean_files#readme"
 }
